@@ -1,0 +1,8 @@
+YAML
+
+title: DataBrian
+description: Data analytics portfolio of Brian Smith
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
