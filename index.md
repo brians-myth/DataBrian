@@ -1,4 +1,4 @@
-# Brian Smith
+# Data Brian
 
 ## Junior Data Analyst 
 
